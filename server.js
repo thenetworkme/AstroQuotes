@@ -4,11 +4,7 @@ const fs = require("fs");
 const path = require("path");
 const cors = require("cors");
 
-app.use(
-  cors({
-    origin: "http://localhost:5173",
-  })
-);
+app.use(cors());
 
 const port = 3000;
 
