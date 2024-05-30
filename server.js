@@ -24,6 +24,9 @@ app.get("/api/quotes", (req, res) => {
     }
   });
 });
+app.get("/", (req, res) => {
+  res.send("Toda la info se encuentra en /api/quotes");
+});
 
 app.listen(port, () => {
   console.log(`Servidor corriendo en puerto ${port}`);
