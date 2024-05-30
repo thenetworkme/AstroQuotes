@@ -1,16 +1,69 @@
 {
-  "quotes": [
+  "frases": [
     {
-      "author": "Neil Armstrong",
-      "quote": "That's one small step for a man, one giant leap for mankind."
+      "id": 1,
+      "autor": "Stephen Hawking",
+      "frase": "Tiene que haber algo muy especial acerca de los límites del universo. ¿Y qué es más especial que el hecho de que no haya límites? Y no debe haber límites en el empeño humano."
     },
     {
-      "author": "Kalpana Chawla",
-      "quote": "The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
+      "id": 2,
+      "autor": "Severo Ochoa",
+      "frase": "La ciencia siempre vale la pena, porque sus descubrimientos, tarde o temprano, siempre se aplican."
     },
     {
-      "author": "Solami",
-      "quote": "The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
+      "id": 3,
+      "autor": "Louis Pasteur",
+      "frase": "Un poco de ciencia nos aleja de Dios, pero mucha ciencia nos devuelve a Él."
+    },
+    {
+      "id": 4,
+      "autor": "Max Planck",
+      "frase": "La ciencia es la progresiva aproximación del hombre al mundo real."
+    },
+    {
+      "id": 5,
+      "autor": "Hipócrates",
+      "frase": "La ciencia es el padre del conocimiento, pero las opiniones son las que engendran la ignorancia."
+    },
+    {
+      "id": 6,
+      "autor": "John C. Polanyi",
+      "frase": "La ciencia es una empresa que sólo puede florecer si se pone la verdad por delante de la nacionalidad, la etnia, la clase y el color."
+    },
+    {
+      "id": 7,
+      "autor": "Charles Chaplin",
+      "frase": "Nuestra ciencia nos ha hecho cínicos; nuestra inteligencia, duros y faltos de sentimientos."
+    },
+    {
+      "id": 8,
+      "autor": "Isaac Newton",
+      "frase": "Lo que conocemos es una gota, lo que no conocemos es un océano."
+    },
+    {
+      "id": 9,
+      "autor": "René Descartes",
+      "frase": "La matemática es la ciencia del orden y la medida, de bellas cadenas de razonamientos, todos sencillos y fáciles."
+    },
+    {
+      "id": 10,
+      "autor": "Claude Bernard",
+      "frase": "El experimentador que no sabe lo que está buscando no comprenderá lo que encuentra."
+    },
+    {
+      "id": 11,
+      "autor": "Bill Nye",
+      "frase": "La ciencia es la clave de nuestro futuro y si tú no crees en la ciencia, entonces nos estás reteniendo a todos hacia atrás."
+    },
+    {
+      "id": 12,
+      "autor": "Edmund Burke",
+      "frase": "La ciencia se corrompe con facilidad si dejamos que se estanque."
+    },
+    {
+      "id": 13,
+      "autor": "Louis Pasteur",
+      "frase": "Las ciencias aplicadas no existen, lo que existen son aplicaciones de las ciencias."
     }
   ]
 }

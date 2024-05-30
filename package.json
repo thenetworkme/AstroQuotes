@@ -1,7 +1,7 @@
 {
-  "name": "nasa-api",
+  "name": "ciencia-api",
   "version": "1.0.0",
-  "description": "Find Nasa Quotes",
+  "description": "Find Quotes about science",
   "main": "server.js",
   "scripts": {
     "dev": "node server.js"

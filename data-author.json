@@ -1,0 +1,15 @@
+{
+  "frases": [
+    {
+      "autores": {
+        "nombre": "Stephen Hawking",
+        "frases": [
+          {
+            "id": 1,
+            "frase": "Tiene que haber algo muy especial acerca de los límites del universo. ¿Y qué es más especial que el hecho de que no haya límites? Y no debe haber límites en el empeño humano."
+          }
+        ]
+      }
+    }
+  ]
+}
