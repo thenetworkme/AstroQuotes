@@ -1,4 +1,5 @@
 const express = require("express");
+const app = express();
 const fs = require("fs");
 const path = require("path");
 const cors = require("cors");
@@ -9,7 +10,6 @@ app.use(
   })
 );
 
-const app = express();
 const port = 3000;
 
 app.get("/api/quotes", (req, res) => {
