@@ -1,13 +1,18 @@
 const express = require("express");
+
 const app = express();
-const data = require("./data.json");
+const port = 3000;
 
-PORT = process.env.PORT || 4000;
+app.get("/api/posts", (req, res) => {
+  const posts = [
+    { id: 1, title: "Post 1", body: "Contenido del post 1" },
+    { id: 2, title: "Post 2", body: "Contenido del post 2" },
+    { id: 3, title: "Post 3", body: "Contenido del post 3" },
+  ];
 
-app.get("/", (req, res) => {
-  res.json(data);
+  res.json(posts);
 });
 
-app.listen(PORT, () => {
-  console.log(`Server ${PORT}`);
+app.listen(port, () => {
+  console.log(`Servidor corriendo en http://localhost:${port}`);
 });
